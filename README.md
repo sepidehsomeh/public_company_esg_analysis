@@ -119,7 +119,7 @@ The following techniques were used throughout the project:
 - **Correlation Analysis** - Examined the relationship between Environmental and Social scores.
 - **Data Visualisation** - Used Python during EDA and Power BI to communicate the main findings.
 
-Generative AI was used to support project planning, code troubleshooting, interpretation and documentation. The final analysis and outputs were reviewed and validated against the project data.
+
 ## Key Findings and Recommendations
 
 ### Key Findings
@@ -244,6 +244,7 @@ The main Python libraries used in this project include:
 - **Company and Financial Data:** [Finnhub](https://finnhub.io/)
 - **Project Template and Learning Materials:** Code Institute - Data Analytics with AI programme.
 - **Dashboard:** Microsoft Power BI.
+- **GitHub Copilot:** Used to support code organisation in VS Code.
 - **Generative AI:** ChatGPT used for troubleshooting during project development.
 
 The dataset is available under the **CC BY-NC-SA 4.0** licence. All external data sources and resources used in the project have been acknowledged.
